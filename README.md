@@ -45,7 +45,7 @@ This project utilizes the following technologies:
    start index.html  # Windows
 
 
-This code provides a clean and modern `README.md` file structure with sections that cover the features, tech stack, installation, usage, contributing, license, and contact details. Make sure to replace placeholders like `dinesh` and `m.dinesh.it27.com` with the actual details for your repository.
+This code provides a clean and modern `README.md` file structure with sections that cover the features, tech stack, installation, usage, contributing, license, and contact details. Make sure to replace placeholders like `dinesh` and `m.dinesh.it27@gmail.com` with the actual details for your repository.
 
 Feel free to customize it further based on your project's needs!
 
