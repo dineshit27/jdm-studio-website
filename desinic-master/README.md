@@ -1,54 +1,37 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/desinic)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/desinic?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/desinic?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SjhiZ_ySGzA?style=social)](https://youtu.be/SjhiZ_ySGzA)
+# JDM Studio430 Website
 
-  <br />
-  <br />
+Welcome to the official repository of the **JDM Studio430 Website**! This website is a showcase of JDM Studio430's creative works, offering a clean, responsive, and engaging digital experience for visitors.
 
-  <h2 align="center">Desinic - Agency website</h2>
+---
 
-  Desinic is fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+## ✨ Features
 
-  <a href="https://codewithsadee.github.io/desinic/"><strong>➥ Live Demo</strong></a>
+- **Responsive Design**: Looks great on all devices (desktop, tablet, mobile).
+- **Portfolio Section**: Displaying creative projects and collaborations.
+- **Contact Form**: Reach out to JFM Studio430 for inquiries or collaborations.
+- **Smooth Animations**: Dynamic user experience built with JavaScript.
+- **Lightweight**: Built purely with **HTML**, **CSS**, and **JavaScript** for speed.
 
-</div>
+## 🔧 Tech Stack
 
-<br />
+This project utilizes the following technologies:
 
-### Demo Screeshots
+- **HTML5**: Structure and content.
+- **CSS3**: Styling, layout, and responsive design.
+- **JavaScript**: Interactive elements and animations.
 
-![Desinic Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+---
+
+## 🚀 Installation
 
 ### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+- A modern web browser (e.g., Chrome, Firefox, Safari).
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+### Steps to Run Locally
 
-### Run Locally
+1. Clone the repository:
 
-To run **Desinic** locally, run this command on your git bash:
+   ```bash
+   git clone https://github.com/your-username/jfm-studio430-website.git
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/desinic.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/desinic.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
