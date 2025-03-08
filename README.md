@@ -2,6 +2,12 @@
 
 Welcome to the official repository of the **JDM Studio430 Website**! This website is a showcase of JDM Studio430's creative works, offering a clean, responsive, and engaging digital experience for visitors.
 
+![GitHub stars](https://img.shields.io/github/stars/your-username/jdm-studio430-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/your-username/jdm-studio430-website?style=social)
+![License](https://img.shields.io/github/license/your-username/jfm-studio430-website)
+
+
+
 ---
 
 ## ✨ Features
