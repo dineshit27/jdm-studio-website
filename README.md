@@ -4,7 +4,7 @@ Welcome to the official repository of the **JDM Studio430 Website**! This websit
 
 ![GitHub stars](https://img.shields.io/github/stars/dineshit27/jdm-studio430-website?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/dineshit27/jdm-studio430-website?style=social)
-![License](https://img.shields.io/github/license/dineshit27/jdm-studio430-website)
+![License](https://img.shields.io/github/license/dineshit27/jdm-studio430-website?style=social)
 
 
 
